@@ -1,6 +1,5 @@
-[package]
-name = "whelm"
-version = "0.1.0"
-edition = "2024"
-
-[dependencies]
+[workspace]
+members = [
+    "whelm",
+    "demo"
+]
